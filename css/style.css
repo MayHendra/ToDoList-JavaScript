@@ -1,0 +1,29 @@
+body {
+    background-image: linear-gradient(to right, rgb(250, 200, 92), rgb(253, 231, 38));
+    color: rgb(65, 65, 65) !important;
+}
+
+button {
+    background-color: rgb(250, 200, 92) !important;
+}
+
+.card {
+    width: 25rem;
+}
+
+i {
+    cursor: pointer;
+}
+
+li {
+    list-style: none;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
+a {
+    cursor: pointer;
+    background-color: rgb(250, 200, 92) !important;
+}
